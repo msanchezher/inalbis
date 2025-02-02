@@ -9,18 +9,18 @@
   "languageList": [
     { "value": "english", "label": "English" },
     { "value": "german", "label": "Deutsch" },
+    { "value": "french", "label": "Français" },
+    { "value": "spanish", "label": "Español" },
     { "value": "mandarin", "label": "普通话" }
   ],
   "social": {
-    "facebook": "https://www.facebook.com/MatterDesign/",
-    "instagram": "https://www.instagram.com/p/CVwMlChIWmW",
-    "twitter": "https://twitter.com/hellomatter",
-    "youtube": "https://www.youtube.com/channel/UCEOu94Haa--QmltsSawflXg"
+    "instagram": "https://www.instagram.com/inalbisservices",
   },
   "paymentOptions": {
     "visa": true,
     "mastercard": true,
-    "amex": true
+    "amex": true,
+    "paypal": true
   },
   "footerLinks": [
     {
@@ -50,14 +50,6 @@
         {
           "text": "Contact Us",
           "link": "/support#contact"
-        },
-        {
-          "text": "Shipping & Returns",
-          "link": "/support#returns"
-        },
-        {
-          "text": "How to use this theme",
-          "link": "/how-to-use"
         }
       ]
     }
